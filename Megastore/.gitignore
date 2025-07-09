@@ -1,0 +1,15 @@
+# ESO SavedVariables (these are user-specific)
+*.lua.bak
+*_backup.lua
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

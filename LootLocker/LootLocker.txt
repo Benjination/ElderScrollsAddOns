@@ -1,0 +1,8 @@
+## Title: LootLocker
+## Author: Benjamin Niccum
+## Version: 1.0.0
+## APIVersion: 101041
+## Description: Secure inventory management addon for Elder Scrolls Online
+## SavedVariables: LootLockerSavedVars
+
+LootLocker.lua

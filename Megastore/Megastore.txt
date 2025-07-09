@@ -1,0 +1,10 @@
+## Title: Benny's Megastore
+## Author: Benjamin Niccum
+## Version: 1.0.0
+## APIVersion: 101041
+## Description: Community-driven megastore that aggregates guild store data across all players to help you find items and their locations.
+## DependsOn: 
+## OptionalDependsOn: LibAddonMenu-2.0
+## SavedVariables: MegastoreSavedVars
+
+Megastore.lua
