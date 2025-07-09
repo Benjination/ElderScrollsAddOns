@@ -1,8 +1,9 @@
-## Title: LootLocker
+## Title: LootLocker  
+## APIVersion: 101048
+## Version: 1.0.4
 ## Author: Benjamin Niccum
-## Version: 1.0.0
-## APIVersion: 101041
-## Description: Secure inventory management addon for Elder Scrolls Online
+## Description: Group loot sharing system for PS5
 ## SavedVariables: LootLockerSavedVars
+## DependsOn: 
 
 LootLocker.lua
